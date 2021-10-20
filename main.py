@@ -8,5 +8,5 @@ print("Your numbers are: ")
 seed(randomizer)
 # generate numbers
 for _ in range(10):
-	value = randint(0, 10)
-	print(value)
+    value = randint(0, 10)
+    print(value)
