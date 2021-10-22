@@ -1,4 +1,4 @@
 # Python-RNG
-Generate random numbers in python!
-Just enter in a string to randomize it and boom!
+Generate a random number in python!
 Nathaniel Carman 2021
+This program is licenced under GPL V3.
