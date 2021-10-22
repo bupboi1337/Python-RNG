@@ -2,8 +2,12 @@
  # PYTHON-RNG
  # By Nathaniel Carman, 2021.
 import random
+ # define stuff
+v1 = 1
+v2 = 4
+v3 = 2
  # Main code
-print("Python RNG 1.4.1. By Nathaniel Carman.") # First line of text you see on screen
+print("Python RNG, By Nathaniel Carman.") # First line of text you see on screen
+print("Verison", v1, ".", v2, ".", v3)
 print("Your number is:")
-print(random.randint(0,10)) # Print the random number
-print("Thank you for using this script!")
+print(random.randint(0,10)) # Print the number
