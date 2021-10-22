@@ -2,7 +2,7 @@
 # By Nathaniel Carman, 2021.
 
 
-# Importing Librarys
+# Importing Libraries
 import random
 # Main code
 print("Random Number Generator. Generates a number inbetween 1 and 10!") # First line of text you see on screen
